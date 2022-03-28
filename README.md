@@ -1,5 +1,4 @@
 # Reviews-API
-## Overview
 Creating a back end to deal with millions of rows of data consisting of complicated data shape
 while optimizing to handle over 4000 request per second
 
